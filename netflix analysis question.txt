@@ -1,0 +1,17 @@
+NETFLIX ANAYLSIS:
+Q.1: Is there any duplicate records in the dataset? if yes , then remove the duplicate records.
+Q.2: Is there any null values in the dataset? check them and show them with hitmap
+Q.3:for "house of cards", what is the show id and who is the director of the show
+Q.4:In which year highest number of tv shows and movies were released ? show with bar graph
+Q.5: How many movies and tv shows are in the dataset ?
+Q.6: show all the movies that were released in year 2020
+Q.7: show only the tv shows that were released in india onlyQ.8: show top 10 directors who gave the highest number of tv shows & movies to netflix
+Q.8: show all records where category is movie and type is comdy or country is uk
+Q.9: in how many movies/shows where tom cruise was cast?
+Q.10: what are the different rating defined by netflix
+Q12.1:how many movies got tv-14 rating in canada?Q12.2: how many tv  shows got r rating after year 2018Q.13: what is the maximum duration of a movie on netflix?
+Q.14:which individual country has most number of tv shows
+Q.15:sort the dataset by year
+Q16.: find all intances where
+ 1 catrgory is movie and type is dramas
+ 2 category is tv shows and type is kids tv
